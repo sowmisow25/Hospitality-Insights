@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hospitality Revenue Insights Dashboard</h1>
+  <h1>Hospitality Insights</h1>
 </div>
 
 Welcome to the **Hospitality Revenue Insights Dashboard**! This Power BI dashboard was built to provide key analytics and insights for the Revenue Management team of the Atliq Grand hotel chain. It highlights critical metrics like revenue trends, booking patterns, customer behavior, and occupancy rates to empower data-driven decisions.
